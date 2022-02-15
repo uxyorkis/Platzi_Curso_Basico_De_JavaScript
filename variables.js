@@ -11,3 +11,8 @@ edad = 27;
 
 //Tambien hay valores de string
 var elementos = ["computadora" , "celular"];
+var perona = {
+  nombre: "yorkis",
+  edad: 30
+}
+persona;
